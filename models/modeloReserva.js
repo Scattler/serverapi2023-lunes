@@ -41,4 +41,4 @@ const Reserva =  new Schema({
     }
 })
 
-export const modeloReseva = mongoose.model('reservas',Reserva);
+export const modeloReserva = mongoose.model('reservas',Reserva);
